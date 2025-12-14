@@ -31,6 +31,6 @@ class Rating extends Component
 
     public function render()
     {
-        return view('ld-rating::livewire.rating');
+        return view('sb-rating::livewire.rating');
     }
 }

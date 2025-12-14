@@ -12,7 +12,7 @@
 import { computed } from 'vue';
 
 export default {
-  name: 'LdRating',
+  name: 'SbRating',
   props: {
     modelValue: { type: Number, default: 0 },
     max: { type: Number, default: 5 },
